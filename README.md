@@ -1,2 +1,2 @@
 # battleschool-configs
-Configs for battleschool
+Configs for [battleschool](https://github.com/spencergibb/battleschool)
