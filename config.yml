@@ -22,3 +22,5 @@ sources:
          - gitx.yml
          - sublime3.yml
          - chrome-stable.yml
+         - skype.yml
+         - cheatsheet.yml
